@@ -21,4 +21,4 @@ Python, pandas, matplotlib
 - Priorizar programas de retención para el segmento de clientes de alta rentabilidad
 
 ## Ver el análisis completo
-[Notebook en Kaggle](https://www.kaggle.com/code/andreamarcial/notebookac74f1695f])
+[Notebook en Kaggle](https://www.kaggle.com/code/andreamarcial/an-lisis-de-ventas)
